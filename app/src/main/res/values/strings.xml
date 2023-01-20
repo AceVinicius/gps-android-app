@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Local Weather</string>
+    <string name="getWeather">Check Weather</string>
+    <string name="cloudValue">-- %</string>
+    <string name="temperatureLabel">Temperature</string>
+    <string name="cloudLabel">Cloud</string>
+    <string name="windValue">--- km/h</string>
+    <string name="windLabel">Wind</string>
+    <string name="temperatureValue">-- ºC</string>
+    <string name="localValue">-----</string>
+    <string name="temperaturaText" />
+</resources>
